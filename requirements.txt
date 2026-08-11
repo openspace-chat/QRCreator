@@ -1,3 +1,0 @@
-segno>=1.6,<2
-Pillow>=10,<12
-CairoSVG>=2.7,<3
