@@ -1,5 +1,7 @@
 # QRCreator
 
+**在线工具**：访问 [QR Studio - 二维码在线生成器](https://www.openspace.chat/QRCode/index.html)，快速生成带参数、Logo 和自定义颜色的二维码。
+
 一个使用 Python 编写的二维码生成核心。项目使用 Segno 将文本编码为标准 QR 矩阵，
 并负责尺寸布局、颜色绘制、Logo 安全区域检查、画布合成以及 PNG、JPG、SVG 导出。
 
